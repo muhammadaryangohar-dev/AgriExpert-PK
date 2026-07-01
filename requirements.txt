@@ -1,0 +1,7 @@
+# Core app: zero required third-party dependencies.
+# The GUI uses only the Python standard library (tkinter, urllib, subprocess).
+# The regression engine is pure Python (no numpy/scikit-learn needed).
+#
+# Optional — improves the quality of PDF report export.
+# Without it, agriexpert_core.py falls back to a built-in minimal PDF writer.
+reportlab>=4.0

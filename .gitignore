@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Editor / OS cruft
+*~
+.DS_Store
+Thumbs.db
+tempCodeRunnerFile.py
+.vscode/
+.idea/
+
+# Exported reports (generated at runtime — don't version-control test output)
+/exports/
+*.csv
+*.pdf
