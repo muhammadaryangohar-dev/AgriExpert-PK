@@ -87,13 +87,7 @@ python agriexpert_cli.py regression --crop rice --cf 82 --weather cool_wet \
     --soil waterlogged --hectares 5 --price 6000 --treatment fungicide --json
 
 python agriexpert_cli.py --help
-```
 
-## Screenshots
-
-<!-- Add your own screenshots here — see the step-by-step GitHub guide for how. -->
-![Diagnose tab](screenshots/diagnose.png)
-![Economic Damage tab](screenshots/econ_damage.png)
 
 ## Extending
 
